@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hagkan.png
+image: images/hagkan-1.png
 title: HagKan Kids 3.0
 permalink: projects/hagkan
 # All dates must be YYYY-MM-DD format!
@@ -9,6 +9,8 @@ date: 2014-09-22
 labels:
   - Volunteer
   - Tutor
+  - OpenOffics
+  - Open-source programs
 summary: My team taught public elementary students the basics of OpenOffice and e-mailing.
 ---
 
