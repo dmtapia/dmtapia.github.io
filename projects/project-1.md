@@ -13,6 +13,7 @@ labels:
   - Open-source programs
 summary: My team taught public elementary students the basics of OpenOffice and e-mailing.
 ---
+<img class="ui medium right floated rounded image" src="https://dmtapia.github.io/images/hagkan.png">
 
 HagKan is a shortened term for Handog Kaalaman. These are two Filipino words that mean 'offering' and 'knowledge' respectively. This is an event formed by the UP Association of Computer Science Majors (UP CURSOR) of the University of the Philippines - Diliman. The organization aims to impart basic computer knowledge to people, usually public school students, who have limited resources.
 
