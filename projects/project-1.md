@@ -11,7 +11,7 @@ labels:
   - Tutor
   - OpenOffics
   - Open-source programs
-summary: My team taught public elementary students the basics of OpenOffice and e-mailing.
+summary: My team taught students from Krus Na Ligas Elementary School (Quezon City, Philippines) the basics of OpenOffice and e-mailing.
 ---
 <img class="ui medium left floated image" src="../images/hagkan.png">
 
