@@ -7,6 +7,8 @@ date: 2015-09-21
 labels:
   - Technology
 ---
+<img class="ui medium left floated image" src="https://qph.fs.quoracdn.net/main-qimg-c5d81d639113701cf47eaa331ce37662">
+<a href="https://qph.fs.quoracdn.net/main-qimg-c5d81d639113701cf47eaa331ce37662"><h3>Source</h3></a>
 
 <p>&ensp;&ensp;“Digital technology continues to extend into every area of our lives,” Douglas Rushkoff, one of the writers of the documentary Frontline: Digital Nation, states, “yet the people developing these tools seem to be doing so with less regard for how we'll be affected in the future than how we might be influenced in the present” (Goodman). In this point in time, technology is something that cannot be avoided due to the fact that it has already been a part of people’s everyday lives. Indeed, the human race has been getting a lot of benefits from the technological advancements that were made through the years, but the disadvantages that they could bring to everyone are just as evident. Modern technology has been negatively affecting different areas in people’s lives, including their communication skills, their self-identity, and their rights to privacy.</p>
 
