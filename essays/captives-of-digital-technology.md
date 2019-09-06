@@ -20,7 +20,8 @@ labels:
 <p>&ensp;&ensp;Generally, digital technology helps people go through their everyday lives, and this fact makes it completely unavoidable. However, people should be aware of the long-term effects that it has brought to them and to the world. It has started affecting different areas in their lives – communication, self-identity, rights, education, businesses, and many more. Who knows what else could these advancements do in the future? It is never wrong to be innovative and to develop existing technology to make lives much easier. Nevertheless, the human race should remember that, in this world, they should be the ones controlling technology and not the other way around. (1176)</p>
 
  
-<p>Works Cited </p>
+ 
+<b><center><p>Works Cited </p></center></b>
 <p>Goodman, R. D. (Director). (2010). Digital nation [Documentary]. USA: PBS Video. 
 Restak, Richard. Attention Deficit: The Brain Syndrome of Our Era. Emerging. United States of America: Barclay Berrios, 2010. 333-345. Print. </p>
 
