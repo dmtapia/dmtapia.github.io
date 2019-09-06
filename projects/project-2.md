@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/css.png
-title: CSS: Now Installing...
-permalink: projects/vacay
+title: CSS
+permalink: projects/css
 # All dates must be YYYY-MM-DD format!
 date: 2015-02-07
 labels:
   - Seminar
   - Workshop
   - Computer Science
-summary: A seminar-workshop event presented by UP CURSOR.
+summary: A seminar-workshop event
 ---
 
 <img class="ui medium right floated rounded image" src="../images/css-1.jpg">
