@@ -24,7 +24,7 @@ labels:
 Goodman, R. D. (Director). (2010). Digital nation [Documentary]. USA: PBS Video. 
 Restak, Richard. Attention Deficit: The Brain Syndrome of Our Era. Emerging. United States of America: Barclay Berrios, 2010. 333-345. Print. 
 
-<a href="https://qph.fs.quoracdn.net/main-qimg-c5d81d639113701cf47eaa331ce37662"><h5>Image Source</h5></a>
+<a href="https://qph.fs.quoracdn.net/main-qimg-c5d81d639113701cf47eaa331ce37662">Image Source</a>
  
  
  
