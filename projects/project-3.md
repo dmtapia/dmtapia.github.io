@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cap-h.png
 title: CAP-H
-permalink: projects/cotton
+permalink: projects/cap-h
 # All dates must be YYYY-MM-DD format!
 date: 2015-11
 labels:
@@ -13,4 +13,3 @@ summary: A hypothetical non-government organization my classmates and I worked o
 ---
 
 <img class="ui image" src=".../images/cap-h-1.png">
-
