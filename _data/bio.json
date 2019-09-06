@@ -100,69 +100,54 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "CVS Health (Longs Drugs)",
+      "position": "Retail Store Associate",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2015-12-06",
+      "endDate": "2019-08-14",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "advertised products", "offered customer assistance", "helped manage inventory", "restocked shelves", "operated cash register"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Oaktree Restaurant, LLC (Arby's)",
+      "position": "Team Member",
+      "website": "",
+      "startDate": "2015-05-29",
+      "endDate": "2015-12-06",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Managed cash register", "provided customers knowledge about products"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Maunalani Nursing and Rehabilitation Center",
+      "website": "https://maunalaninursing.org/",
+      "position": "Student Volunteer",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Provided assistance to both the organization and its residents",
       "highlights": [
         "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "watching over the residents during activities, transporting residents from one place to another around the facility, collecting information of residents for the organization to fully understand the wants and needs of the residents"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "S-STEM Scholarship",
+      "date": "Spring 2017",
+      "awarder": "National Science Foundation",
+      "summary": "This grant awards scholarships to select students pursuing STEM careers."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Graduate with Honors",
+      "date": "Spring 2017",
+      "awarder": "Kapiolani Community College",
+      "summary": "Graduated with a GPA of 3.5 or higher"
     }
   ],
   "references": [
