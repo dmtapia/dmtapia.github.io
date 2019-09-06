@@ -5,11 +5,11 @@ image: images/cap-h.png
 title: CAP-H
 permalink: projects/cap-h
 # All dates must be YYYY-MM-DD format!
-date: 2015-11
+date: 2015-02-07
 labels:
-  - Non-government organization
+  - Nongovernmental organization
   - ENG 100
-summary: A hypothetical non-government organization my classmates and I worked on for ENG 100.
+summary: A hypothetical NGO my classmates and I built for ENG 100.
 ---
 
-<img class="ui image" src=".../images/cap-h-1.png">
+<img class="ui rounded image" src="../images/cap-h-1.png">
