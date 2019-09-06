@@ -50,11 +50,10 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "HTML"
       ]
     },
     {
@@ -63,20 +62,38 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawai'i at Manoa",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-26",
       "endDate": "Present",
       "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kapiolani Community College",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2018-08-20",
+      "endDate": "2019-05-10",
+      "gpa": "3.74",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kapiolani Community College",
+      "area": "Natural Sciences - Information and Communications Technology",
+      "studyType": "A.S.",
+      "startDate": "2015-08-24",
+      "endDate": "2017-12-15",
+      "gpa": "3.70",
       "courses": [
       ]
     }
