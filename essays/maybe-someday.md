@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Maybe someday
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-21
+date: 2019-09-06
 labels:
   - Software Engineering
   - Programming
