@@ -6,17 +6,16 @@
 // Here are some common customizations for colors
 
 // Customize the background color
-body {	
-  background: linear-gradient(to bottom right, mint, whitesmoke);
+body {
+  background: linear-gradient(to bottom right, lightskyblue, whitesmoke);
 }
-
 
 // Customize the menubar color
 .ui.menu {
-  background: emerald;
-}	
+  background: lightskyblue;
+}
 
 // Customize the home page icon colors
 .icon-color {
-  color: darken(gray, 20%);
+  color: darken(lightsteelblue, 20%);
 }
