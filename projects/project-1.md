@@ -10,7 +10,7 @@ labels:
   - Teaching
   - OpenOffice
   - Open-source programs
-summary: My team taught the basics of OpenOffice and e-mailing to public school students.
+summary: Teaching the basics of OpenOffice and e-mailing to public school students
 ---
 <img class="ui medium left floated image" src="../images/hagkan.png">
 
