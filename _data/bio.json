@@ -100,11 +100,22 @@
   ],
   "work": [
     {
+      "company": "University of Hawai'i at Manoa - Travel Industry Management",
+      "position": "Computer Lab Assistant",
+      "website": "",
+      "startDate": "2019-09-10",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "technical support", "offers help to students, staff, and faculty"
+      ]
+    },
+    {
       "company": "CVS Health (Longs Drugs)",
       "position": "Retail Store Associate",
       "website": "",
       "startDate": "2015-12-06",
-      "endDate": "2019-08-14",
+      "endDate": "2019-09-14",
       "summary": "",
       "highlights": [
         "advertised products", "offered customer assistance", "helped manage inventory", "restocked shelves", "operated cash register"
