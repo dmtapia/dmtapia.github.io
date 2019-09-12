@@ -5,7 +5,7 @@ image: images/cap-h.png
 title: CAP-H
 permalink: projects/caph
 # All dates must be YYYY-MM-DD format!
-date: 2015-11-00
+date: 2015-11-12
 labels:
   - Nongovernmental organization
   - ENG 100
