@@ -11,6 +11,8 @@ labels:
   - HTML
   - CSS
 ---
-<img class="ui medium left floated image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQXfJRwIx3EYIObG8aGYjEm2CkJOWJWfN1E1VIdNoYO4cd6JA9w">
-<img class="ui medium left floated image" src="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Friendster.jpg/revision/latest?cb=20120701064635">
+<div class="ui left container">
+  <img class="ui medium floated image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQXfJRwIx3EYIObG8aGYjEm2CkJOWJWfN1E1VIdNoYO4cd6JA9w">
+  <img class="ui medium floated image" src="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Friendster.jpg/revision/latest?cb=20120701064635">
+</div>
 
