@@ -12,4 +12,4 @@ labels:
 
 <p>An event informer application in which students can have a general idea on what is going on on campus that are non-academic related. This will include events related to games, sports, foods, etc., organized by the school, the students and the different campus organizations. It will be  a general hub including a news feed and student interactions such as live tweets.</p>
 
-<img src="../images/final-idea.png">
+<img class="ui image" src="../images/final-idea.png">
