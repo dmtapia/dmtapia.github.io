@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Warrior-Jam.png
+image: images/Warrior-Jam-2.png
 title: Warrior Jam
 permalink: projects/warriorjam
 # All dates must be YYYY-MM-DD format!
@@ -26,4 +26,4 @@ Website: <a href="https://warrior-jam.github.io/">Cultural Assimilation Project 
 <img class="ui rounded image" size="500px" src="../images/wj-create-profile.png">
 <img class="ui rounded image" size="500px" src="../images/Browse-Musicians-2.png">
 <img class="ui rounded image" size="500px" src="../images/Warrior-Jam.png">
-</div
+</div>
