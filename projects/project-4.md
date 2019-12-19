@@ -22,19 +22,19 @@ In this project, I learned how important time management and communication are. 
 To learn more about our project, please visit: <a href="https://warrior-jam.github.io/">Warrior Jam</a>
 
 <div class="ui massive centered images">
-  ## About Page
+  <h4>About Page</h4>
   <img class="ui rounded image" src="../images/wj-about.png">
-  ## Profile Page
+  <h4>Profile Page</h4>
   <img class="ui rounded image" src="../images/Profile-page.png">
-  ## Browse Open Mic Events Page
+  <h4>Browse Open Mic Events Page</h4>
   <img class="ui rounded image" src="../images/Browse-Open-Mics.png">
 </div>
 
 <div class="ui massive centered images">
-  ## Create Profile Page
+  <h4>Create Profile Page</h4>
   <img class="ui rounded image" src="../images/wj-create-profile.png">
-  ## Browse Musicians Page
+  <h4>Browse Musicians Page</h4>
   <img class="ui rounded image" src="../images/Browse-Musicians-2.png">
-  ## Landing Page
+  <h4>Landing Page</h4>
   <img class="ui rounded image" src="../images/Warrior-Jam.png">
 </div>
