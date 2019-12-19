@@ -9,8 +9,10 @@ labels:
   - Programming
   - Open Source
 ---
-<img class="ui centered image" src="../images/final-essay.png">
-<p>The course <i>ICS 314: Software Engineering I</i></p>
+<img class="ui centered tiny image" src="../images/final-essay.png">
+<p>The course <i>ICS 314: Software Engineering I</i> is definitely my new favorite class. When I transferred to a university from a community college, I was scared, because I didn't know what to expect. I mean, I did experience going to a university in the Philippines before for three years and it was tough and fun at the same time, but I wasn't sure if I will love University of Hawai'i at Manoa the same way I loved the University of the Philippines, but I did, and this class is a big part of that.</p>
+
+<p>As a student majoring in computer science, this class is one of the classes I was required to take. I was warned that it was going to be hard, however, I guess it kind of was, but also, the professors made it very enjoyable. At first, I hated the fact that we had to do homework almost everyday, but now I realized how important they were in order to learn, because like the always say... practice makes perfect.</p>
 
 <h4>Open Source Software Development</h4>
 <p> According to <a href="https://en.wikipedia.org/wiki/Open-source_software_development">Wikipedia</a> open-source software development is "the process by which open-source software, or similar software whose source code is publicly available, is developed by an open-source software project". And this, I believe that one of the goals of this class is for students to experience just this, which we really did. Before this class, my github only contained one project that I did for an earlier ICS class. Now that it has ended, it contains different repositories created from the experiences provided by this class, our final project (<a href="https://warrior-jam.github.io/">WarriorJam</a>), and a project my friends and I did for HACC (<a href="https://devpost.com/software/heco-stations">Thique-Atto</a>), and most of it can be accessed by the public for people to be able to experience them or to even learn from them.</p>
