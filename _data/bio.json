@@ -69,7 +69,7 @@
   "education": [
     {
       "institution": "University of Hawai'i at Manoa",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2019-08-26",
       "endDate": "Present",
@@ -142,7 +142,6 @@
       "endDate": "2017",
       "summary": "Provided assistance to both the organization and its residents",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
         "watching over the residents during activities, transporting residents from one place to another around the facility, collecting information of residents for the organization to fully understand the wants and needs of the residents"
       ]
     }
